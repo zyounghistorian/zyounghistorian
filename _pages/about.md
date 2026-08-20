@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[My CV](https://zyounghistorian.github.io/zyounghistorian/files/ZacharyYoungCVAug2026.pdf)"
+title: "[My CV](https://zyounghistorian.github.io/zyounghistorian/files/ZacharyYoungCVAug26.pdf)"
 author_profile: true
 redirect_from: 
   - /about/
