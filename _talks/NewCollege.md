@@ -1,11 +1,9 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "The Discourse of Blood in Early 15th Century Baptized Jewish Communities"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA, USA"
+type: "Talk"
+permalink: /talks/NewCollege
+venue: "New College Conference on Medieval and Renaissance Studies"
+date: 2026-03-05
+location: "Sarasota, FL, USA"
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
