@@ -2,7 +2,7 @@
 title: "Re-Narrating Judaism: A New Reading of the Additiones of Pablo de Santa Maria"
 collection: publications
 category: manuscripts
-permalink: /publication/Church Hist
+permalink: /publication/ChurchHist
 excerpt: 
 date: 2026-07-10
 venue: 'Church History'
