@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zachary Young / PhD Candidate in History at University of Florida"
+title                    : "Zachary Young / PhD Cand. in History, Univ. of Florida"
 title_separator          : "-"
 name                     : &name "Zachary Young"
 description              : &description "Zachary Young's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zachary Young"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD Candidate in History at the University of Florida, specializing in medieval/early modern Iberian and global Christianity. I am seeking a faculty position starting in the fall of 2027."
+  bio              : "I am a PhD Candidate in History at the University of Florida, specializing in medieval/early modern Iberian and global Christianity. I am seeking a faculty position that begins in the fall of 2027."
   location         : "Gainesville, FL"
   employer         : "University of Florida"
   uri              : # URL
